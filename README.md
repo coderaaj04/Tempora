@@ -1,2 +1,63 @@
 # Tempora
-A modern weather web app that shows real-time weather data for any city worldwide 🌍.   Includes live location support, AQI, UV index, pressure, humidity, wind details, and a 5-day forecast.   Built with HTML, CSS, JavaScript, and Bootstrap with a clean UI and dark/light mode.
+
+> A clean, modern and powerful weather web app that gives you real-time weather insights anywhere in the world 🌍
+
+---
+
+## ✨ About The Project
+
+Tempora is not just a basic weather app — it's designed to give a **smooth, clean and real-world user experience**.
+
+With a modern UI, dark/light mode, and accurate data, users can easily check weather conditions, air quality, and forecasts in just a few clicks.
+
+---
+
+## 🚀 Features
+
+✔ 🌍 Search weather for any city worldwide  
+✔ 📍 Get live weather using your current location  
+✔ 🌡 Real-time temperature + feels like  
+✔ 💧 Humidity & 🌡 Pressure  
+✔ 🌬 Wind speed & 🧭 direction  
+✔ 🔆 UV Index  
+✔ 🌅 Sunrise & 🌇 Sunset timing  
+✔ 🌫 Air Quality Index (AQI)  
+✔ 📅 5-Day Forecast  
+✔ 🌙 Dark Mode & ☀ Light Mode  
+✔ 📱 Fully responsive (mobile + desktop)
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Bootstrap 5  
+- Open-Meteo API  
+
+---
+
+## ⚙️ How It Works
+
+1. User enters a city name OR clicks on 📍 location button  
+2. App detects coordinates (latitude & longitude)  
+3. Weather & AQI data is fetched using APIs  
+4. Data is displayed in a clean and easy-to-understand UI  
+
+---
+
+## 🎯 Why This Project?
+
+This project focuses on:
+- Clean UI/UX design 🎨  
+- Real-world functionality 🌍  
+- Smooth user experience ⚡  
+- Practical API integration 🔗  
+
+---
+
+## ⚡ Setup Instructions
+
+```bash
+git clone 
