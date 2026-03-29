@@ -60,4 +60,4 @@ This project focuses on:
 ## ⚡ Setup Instructions
 
 ```bash
-git clone 
+git clone : https://coderaaj04.github.io/Tempora/
