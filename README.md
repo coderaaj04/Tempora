@@ -60,7 +60,10 @@ This project focuses on:
 ## 📸 Preview
 
 
-<img width="1807" height="868" alt="Screenshot 2026-03-30 135600" src="https://github.com/user-attachments/assets/a724c17a-4191-48d9-bc87-65077521b2c7" />
+<img width="1820" height="873" alt="Screenshot 2026-03-31 032742" src="https://github.com/user-attachments/assets/479ccd30-1d17-45a3-948f-22cf37542355" />
+<img width="1801" height="255" alt="Screenshot 2026-03-31 032800" src="https://github.com/user-attachments/assets/ac925a1a-0e87-47be-a2ca-cd5b8b1f1bec" />
+
+
 
 ---
 ## 👨‍💻 Author
