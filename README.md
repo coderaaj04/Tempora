@@ -57,12 +57,18 @@ This project focuses on:
 
 ---
 
-## ⚡ Setup Instructions
+## 📸 Preview
 
-📸 Preview
 
 <img width="1807" height="868" alt="Screenshot 2026-03-30 135600" src="https://github.com/user-attachments/assets/a724c17a-4191-48d9-bc87-65077521b2c7" />
 
+---
+
+## ⚡ Setup Instructions
 
 ```bash
 git clone :  https://coderaaj04.github.io/Tempora/
+
+## 👨‍💻 Author
+
+Raj Gaikwad
